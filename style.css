@@ -48,5 +48,11 @@ div#pimg {
 }
 .favi:hover:hover{
     color: rgb(251, 252, 251);
-    transition: .6s;
+    transition: .6.0s;
+}
+
+#midsection{
+    height: 250px;
+    width: 100%;
+    background-color: aquamarine;
 }
