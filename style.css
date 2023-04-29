@@ -1,7 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    /* border: 1px solid rgb(30, 221, 164); */
+    /* border: 1px solid rgb(29, 25, 214); */
 }
 #header{
     height: 50px;
@@ -55,4 +55,23 @@ div#pimg {
     height: 250px;
     width: 100%;
     background-color: aquamarine;
+}
+
+                                            /*mid section */
+
+.mdiv{ 
+    background-color: rgb(43, 206, 37);
+    display: inline;
+    position: absolute;
+    height: 250px;
+    width: 25%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#mdiv2{
+    right: 25px;
+}
+#mdiv3{
+    left: 50px;
 }
